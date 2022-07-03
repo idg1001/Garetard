@@ -1,0 +1,136 @@
+body {
+background: CadetBlue;
+}
+
+p {
+
+color: FloralWhite
+} 
+h2 {
+color: FloralWhite
+}
+h3 {
+color: #2F4F4F
+}
+h4 {
+color: #2F4F4F;
+text-align: center;
+padding-right: 60px;
+}
+
+header {
+text-align: center;
+color: FloralWhite;
+}
+nav {
+display:inline;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #2F4F4F;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: Floralwhite;
+  text-align: center;
+  padding: 15px;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+aside {
+float: left;
+width: 500px;
+min-height: 800px;
+padding-right: 20px;
+padding-left: 20px;
+text-align: justify;
+}
+
+}
+#makeup {
+padding-left: 100px;
+padding-top: 50px;
+}
+#forestfire {
+padding-left: 58px;
+}
+
+#FatChild {
+
+border: 17px solid #2F4F4F
+}
+
+.container {
+width: 500px;
+background-color: #2F4F4F;
+box-shadow: 0 0 20px 0 #999;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+position: relative;
+}
+form {
+
+margin: 35px;
+}
+.input-field {
+width: 400px;
+height: 40px;
+margin-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+border: 2px solid Black;
+border-radius: 14px;
+outline: none;
+}
+.textarea-field {
+height: 150px;
+}
+.btn {
+border-radius: 20px;
+color: FloralWhite;
+margin-top: 18px;
+padding: 10px;
+background-color: #2F4F4F;
+font-size: 20px;
+border: none;
+cursor: pointer;
+}
+
+
+section {
+float: right;
+width: 500px;
+min-height: 800px;
+padding-right: 20px;
+padding-left: 100px;
+padding-top: 30px;
+text-align: justify;
+border-left: 5px dotted #2F4F4F;
+}
+footer {
+clear: both;
+width: 900px;
+height: 100px;
+}
+#twitter {
+width: 75px;
+height: 75px;
+}
+#poa {
+font-size: 15px;
+}
+#poatitle {
+padding-top: 30px;
+font-size: 25px;
+color: #2F4F4F
+}
